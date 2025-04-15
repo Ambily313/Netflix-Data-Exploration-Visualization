@@ -26,7 +26,7 @@ In this challenge, we will perform basic data exploration, cleaning, and visuali
 - **listed_in**: The categories under which the show is listed (e.g., Action & Adventure).
 - **description**: A brief summary of the show's content.
 
-## 50 Pandas + Visualization Questions – Day 5
+## 50 Pandas + Visualization Questions 
 
 **Overview**:  
 This day’s challenge focused on building powerful data storytelling skills using Pandas and visualization libraries like Matplotlib and Seaborn. Tasks included dataset loading, cleaning, string operations, pivot tables, and filtering. Visualizations like bar plots, line charts, box plots, and heatmaps were used to uncover insights on Netflix’s content distribution over time, geography, and genres. Key skills learned include pivoting, grouping, aggregating, and extracting actionable insights through plots.
