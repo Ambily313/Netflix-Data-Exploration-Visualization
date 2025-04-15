@@ -1,4 +1,4 @@
-# Netflix-Data-Exploration-Visualization
+# Netflix Data Mastery: Cleaning, Analysis & Visual Insights with Pandas
 
 🎬 **Dataset**: Netflix Movies and TV Shows  
 This dataset contains information about Netflix titles, including their genres, countries, durations, release years, and more. It is ideal for practicing data visualization, pivot tables, and aggregation techniques in Python using Pandas, Seaborn, and Matplotlib.
@@ -6,11 +6,7 @@ This dataset contains information about Netflix titles, including their genres, 
 📥 **Download CSV**:  
 [Netflix Titles Dataset](https://raw.githubusercontent.com/prasertcbs/basic-dataset/master/netflix_titles.csv)
 
-## Task Overview
-
-In this challenge, we will perform basic data exploration, cleaning, and visualization tasks, followed by pivot table analysis. You will also create advanced visualizations to explore patterns, relationships, and insights from the dataset.
-
-### Data Columns Explanation:
+## Data Columns Explanation:
 
 - **show_id**: A unique identifier for each show (either movie or TV show).
 - **type**: The type of content (Movie or TV Show).
