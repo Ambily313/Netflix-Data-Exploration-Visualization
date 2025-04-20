@@ -1,0 +1,555 @@
+country,Movie,TV Show
+Argentina,26,12
+"Argentina, Brazil, France, Poland, Germany, Denmark",1,0
+"Argentina, Chile",1,0
+"Argentina, Chile, Peru",1,0
+"Argentina, France",1,0
+"Argentina, France, Germany",1,0
+"Argentina, Italy",2,0
+"Argentina, Spain",6,1
+"Argentina, United States",1,0
+"Argentina, United States, Mexico",0,1
+"Argentina, Uruguay, Serbia",1,0
+"Argentina, Uruguay, Spain, France",1,0
+Australia,32,39
+"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",1,0
+"Australia, Canada",1,1
+"Australia, France",1,0
+"Australia, France, Ireland",1,0
+"Australia, India",1,0
+"Australia, Iraq",1,0
+"Australia, New Zealand",0,1
+"Australia, New Zealand, United States",0,1
+"Australia, United Arab Emirates",3,0
+"Australia, United Kingdom",1,0
+"Australia, United Kingdom, Canada",1,0
+"Australia, United Kingdom, United Arab Emirates, Canada",1,0
+"Australia, United Kingdom, United States, New Zealand, Italy, France",1,0
+"Australia, United States",5,2
+Austria,3,0
+"Austria, Czech Republic",1,0
+"Austria, Iraq, United States",1,0
+"Austria, United States",1,0
+Bangladesh,2,0
+Belgium,1,5
+"Belgium, France",3,0
+"Belgium, India, Australia",1,0
+"Belgium, Ireland, Netherlands, Germany, Afghanistan",1,0
+"Belgium, Luxembourg, France",1,0
+"Belgium, Netherlands",1,1
+"Belgium, United Kingdom, United States",1,0
+Brazil,35,15
+"Brazil, Canada",1,0
+"Brazil, France",2,0
+"Brazil, France, Germany",1,0
+"Brazil, India, China, United States",1,0
+"Brazil, Netherlands, United States, Colombia, Austria, Germany",1,0
+"Brazil, United States",1,0
+Bulgaria,1,0
+"Bulgaria, United States",3,0
+"Bulgaria, United States, Spain, Canada",1,0
+Cambodia,1,0
+"Cambodia, United States",1,0
+Canada,88,53
+"Canada, Australia",0,2
+"Canada, Brazil",0,1
+"Canada, France",0,1
+"Canada, France, Italy, Morocco, United States",1,0
+"Canada, France, United States",1,0
+"Canada, Germany, France, United States",1,0
+"Canada, Germany, South Africa",0,1
+"Canada, India",2,0
+"Canada, India, Thailand, United States, United Arab Emirates",1,0
+"Canada, Ireland, United States",1,0
+"Canada, Japan, Netherlands",0,1
+"Canada, Japan, United States",1,0
+"Canada, Luxembourg",1,0
+"Canada, Mexico, Germany, South Africa",1,0
+"Canada, Norway",1,0
+"Canada, Spain",1,0
+"Canada, Spain, France",1,0
+"Canada, United Kingdom",0,2
+"Canada, United Kingdom, Netherlands",1,0
+"Canada, United Kingdom, United States",1,2
+"Canada, United States",24,12
+"Canada, United States, France",0,1
+"Canada, United States, India, United Kingdom",1,0
+"Canada, United States, United Kingdom",2,0
+Chile,9,3
+"Chile, Argentina",1,0
+"Chile, Argentina, France, Spain, United States",1,0
+"Chile, France",1,0
+"Chile, Peru",1,0
+"Chile, Spain, Argentina, Germany",1,0
+"Chile, United States, France",1,0
+China,19,31
+"China, Canada, United States",1,0
+"China, Germany, India, United States",1,0
+"China, Hong Kong",14,1
+"China, Hong Kong, United States",1,0
+"China, India, Nepal",1,0
+"China, Japan",1,0
+"China, Morocco, Hong Kong",1,0
+"China, South Korea, United States",1,0
+"China, Taiwan",1,0
+"China, United Kingdom",0,1
+"China, United States",1,0
+"China, United States, Australia",1,0
+"China, United States, United Kingdom",1,0
+Colombia,9,16
+"Colombia, Mexico",1,0
+"Colombia, Mexico, United States",0,2
+"Colombia, United States",0,1
+Croatia,0,1
+"Croatia, Slovenia, Serbia, Montenegro",1,0
+"Cyprus, Austria, Thailand",0,1
+"Czech Republic, France",1,0
+"Czech Republic, Slovakia",1,0
+"Czech Republic, United Kingdom, France",1,0
+"Czech Republic, United States",1,1
+Denmark,5,7
+"Denmark, Brazil, France, Portugal, Sweden",1,0
+"Denmark, China",1,0
+"Denmark, France, Italy, Belgium, Netherlands",1,0
+"Denmark, France, Poland",1,0
+"Denmark, France, United States, Sweden",1,0
+"Denmark, Germany, Belgium, United Kingdom, France",1,0
+"Denmark, Germany, Belgium, United Kingdom, France, Sweden",1,0
+"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",1,0
+"Denmark, Singapore, Canada, United States",0,1
+"Denmark, Spain",1,0
+"Denmark, Sweden, Israel, United States",1,0
+"Denmark, United Kingdom",1,0
+"Denmark, United Kingdom, South Africa, Sweden, Belgium",1,0
+"Denmark, United States",1,1
+"Denmark, Zimbabwe",1,0
+Dominican Republic,1,0
+Egypt,42,8
+"Egypt, Austria, United States",1,0
+"Egypt, France",1,0
+Finland,0,1
+"Finland, France",0,1
+"Finland, Germany",0,1
+"Finland, Germany, Belgium",1,0
+"Finland, Sweden, Norway, Latvia, Germany",1,0
+France,50,40
+"France, Belgium",22,2
+"France, Belgium, China, United States",1,0
+"France, Belgium, Spain",1,0
+"France, Canada",2,1
+"France, Canada, Belgium",1,0
+"France, China, Canada",1,0
+"France, China, Japan, United States",1,0
+"France, Germany",0,1
+"France, Germany, Czech Republic, Belgium",1,0
+"France, Germany, Switzerland",1,0
+"France, Iran, United States",1,0
+"France, Japan",1,0
+"France, Luxembourg, Canada",1,0
+"France, Luxembourg, United States",1,0
+"France, Morocco",1,0
+"France, Netherlands, Singapore",1,0
+"France, Netherlands, South Africa, Finland",1,0
+"France, Poland",1,0
+"France, Qatar",1,0
+"France, Senegal, Belgium",1,0
+"France, South Korea, Japan",1,1
+"France, Switzerland, Spain, United States, United Arab Emirates",1,0
+"France, United Kingdom",0,1
+"France, United Kingdom, India",1,0
+"France, United Kingdom, United States",0,1
+"France, United States",2,2
+"France, United States, Canada",0,1
+"France, United States, Mexico",1,0
+Georgia,1,0
+"Georgia, Germany, France",1,0
+Germany,33,7
+"Germany, Australia",1,1
+"Germany, Belgium",1,0
+"Germany, Canada, United States",1,0
+"Germany, France, Luxembourg, United Kingdom, United States",1,0
+"Germany, France, Russia",0,1
+"Germany, France, United States, Canada, United Kingdom",1,0
+"Germany, Italy",1,0
+"Germany, Jordan, Netherlands",1,0
+"Germany, Sri Lanka",1,0
+"Germany, United Kingdom",2,0
+"Germany, United Kingdom, United States",1,0
+"Germany, United States",5,1
+"Germany, United States, Canada",2,0
+"Germany, United States, Hong Kong, Singapore",1,0
+"Germany, United States, Italy",0,1
+"Germany, United States, Sweden",1,0
+"Germany, United States, United Kingdom, Canada",1,0
+Ghana,1,0
+"Ghana, United States",1,0
+Guatemala,1,0
+Hong Kong,49,2
+"Hong Kong, China",16,0
+"Hong Kong, China, Singapore",1,0
+"Hong Kong, China, United States",1,0
+"Hong Kong, Taiwan",1,0
+"Hong Kong, United States",3,0
+Hungary,2,0
+Iceland,2,1
+"Iceland, Sweden, Belgium",1,0
+India,724,53
+"India, Australia",1,0
+"India, Canada",1,0
+"India, France",4,0
+"India, Germany",2,0
+"India, Germany, Austria",1,0
+"India, Germany, France",0,1
+"India, Iran",1,0
+"India, Japan",1,0
+"India, Malaysia",1,0
+"India, Mexico",1,0
+"India, Nepal",1,0
+"India, Pakistan",1,0
+"India, Soviet Union",2,0
+"India, Switzerland",1,0
+"India, Turkey",3,0
+"India, United Kingdom",1,0
+"India, United Kingdom, Canada, United States",1,0
+"India, United States",6,1
+Indonesia,43,1
+"Indonesia, Singapore",2,0
+"Indonesia, South Korea, Singapore",1,0
+"Indonesia, United States",1,0
+"Iran, France",1,0
+Ireland,7,4
+"Ireland, Canada",1,0
+"Ireland, Canada, Luxembourg, United States",1,0
+"Ireland, Canada, United Kingdom, United States",1,0
+"Ireland, Canada, United States, United Kingdom",0,1
+"Ireland, South Africa",1,0
+"Ireland, United Kingdom",1,0
+"Ireland, United Kingdom, Greece, France, Netherlands",1,0
+"Ireland, United Kingdom, Italy, United States",1,0
+"Ireland, United Kingdom, United States",0,2
+"Ireland, United States, France",1,0
+Israel,5,8
+"Israel, Germany",1,0
+"Israel, Germany, France",1,0
+"Israel, Germany, Poland, Luxembourg, Belgium, France, United States",1,0
+"Israel, Sweden, Germany, Netherlands",1,0
+"Israel, United States",3,0
+Italy,17,5
+"Italy, Belgium, France",1,0
+"Italy, Canada, France",0,1
+"Italy, France",4,0
+"Italy, France, Switzerland",1,0
+"Italy, Germany",0,1
+"Italy, India",1,0
+"Italy, South Africa, West Germany, Australia, United States",0,1
+"Italy, Switzerland, Albania, Poland",1,0
+"Italy, Switzerland, France, Germany",1,0
+"Italy, Turkey",1,0
+"Italy, United Kingdom, France",0,1
+"Italy, United States",2,1
+"Italy, United States, Argentina",1,0
+Japan,47,129
+"Japan, Canada",0,1
+"Japan, Canada, South Korea",0,1
+"Japan, United States",5,1
+Lebanon,0,5
+"Lebanon, Jordan",0,1
+"Lebanon, Qatar",1,0
+Malaysia,11,6
+"Malaysia, Singapore, Hong Kong",0,1
+"Mauritius, South Africa",0,1
+Mexico,54,29
+"Mexico, Argentina",1,0
+"Mexico, Finland",1,0
+"Mexico, France",1,0
+"Mexico, Netherlands",1,0
+"Mexico, Spain",2,0
+"Mexico, United States",6,4
+Netherlands,10,2
+"Netherlands, Belgium",1,0
+"Netherlands, Belgium, Germany, Jordan",1,0
+"Netherlands, Belgium, United Kingdom, United States",1,0
+"Netherlands, Denmark, France, Germany",1,0
+"Netherlands, Denmark, South Africa",1,0
+"Netherlands, Germany, Italy, Canada",0,1
+"Netherlands, United States",1,0
+New Zealand,6,2
+"New Zealand, United Kingdom",1,0
+"New Zealand, United Kingdom, Australia",1,0
+"New Zealand, United States",2,0
+Nigeria,36,0
+Norway,3,5
+"Norway, Denmark, Netherlands, Sweden",1,0
+"Norway, Denmark, Sweden",1,0
+"Norway, Germany",1,0
+"Norway, Germany, Sweden",0,1
+"Norway, Iceland, United States",1,0
+"Norway, Sweden",0,1
+"Norway, United Kingdom, France, Ireland",1,0
+"Norway, United States",0,1
+Pakistan,14,4
+"Pakistan, Norway, United States",1,0
+"Pakistan, United Arab Emirates",1,0
+"Pakistan, United States",1,0
+"Paraguay, Argentina",1,0
+Peru,4,0
+"Peru, United States, United Kingdom",1,0
+Philippines,43,1
+"Philippines, Qatar",1,0
+"Philippines, Singapore",1,0
+Poland,9,3
+"Poland,",1,0
+"Poland, United States",1,2
+"Poland, West Germany",1,0
+"Portugal, France, Poland, United States",1,0
+"Portugal, Spain",1,0
+Romania,4,0
+"Romania, Bulgaria, Hungary",1,0
+Russia,1,12
+"Russia, Poland, Serbia",1,0
+"Russia, Spain",1,0
+"Russia, United States",1,0
+Saudi Arabia,1,0
+"Saudi Arabia, Syria, Egypt, Lebanon, Kuwait",0,1
+"Serbia, South Korea, Slovenia",1,0
+"Serbia, United States",1,0
+Singapore,5,9
+"Singapore, France",1,0
+"Singapore, Japan, France",1,0
+"Singapore, Malaysia",1,0
+"Singapore, United States",1,1
+"Slovenia, Croatia, Germany, Czech Republic, Qatar",1,0
+"Somalia, Kenya, Sudan, South Africa, United States",1,0
+South Africa,5,0
+"South Africa, China, United States",1,0
+"South Africa, Germany, Netherlands, France",1,0
+"South Africa, United States",3,0
+"South Africa, United States, Germany",1,0
+"South Africa, United States, New Zealand, Canada",1,0
+South Korea,32,104
+"South Korea, Canada, United States, China",0,1
+"South Korea, China, United States",1,0
+"South Korea, Czech Republic",1,0
+"South Korea, France",0,1
+"South Korea, United States",3,3
+"Soviet Union, India",1,0
+Spain,80,37
+"Spain, Argentina",2,0
+"Spain, Belgium",1,0
+"Spain, Belgium, Switzerland, United States, China, United Kingdom",1,0
+"Spain, Colombia",1,0
+"Spain, Cuba",0,1
+"Spain, France",5,0
+"Spain, France, Italy",1,0
+"Spain, France, Uruguay",1,0
+"Spain, Germany",1,0
+"Spain, Italy, Argentina",1,0
+"Spain, Mexico",2,0
+"Spain, Mexico, France",1,0
+"Spain, Portugal",1,0
+"Spain, Switzerland",1,0
+"Spain, United Kingdom",0,1
+"Spain, United Kingdom, United States",1,0
+Sweden,2,5
+"Sweden, Netherlands",1,0
+"Sweden, United Kingdom, Finland",1,0
+"Sweden, United States",3,0
+Switzerland,1,1
+"Switzerland, France",1,0
+"Switzerland, United Kingdom, United States",1,0
+"Switzerland, United States",2,0
+"Switzerland, Vatican City, Italy, Germany, France",1,0
+Taiwan,4,65
+"Taiwan, China, France, United States",1,0
+"Taiwan, Hong Kong, United States, China",1,0
+Thailand,33,17
+"Thailand, Canada, United States",1,0
+"Thailand, China, United States",1,0
+"Thailand, United States",1,0
+Turkey,55,24
+"Turkey, Azerbaijan",0,1
+"Turkey, France, Germany, Poland",1,0
+"Turkey, India",1,0
+"Turkey, United States",1,0
+Ukraine,0,2
+United Arab Emirates,3,1
+"United Arab Emirates, Jordan",1,0
+"United Arab Emirates, Romania",1,0
+"United Arab Emirates, United Kingdom, India",1,0
+"United Arab Emirates, United States",2,0
+"United Arab Emirates, United States, United Kingdom",1,0
+United Kingdom,170,178
+"United Kingdom,",1,0
+"United Kingdom, Australia, Canada, United States",1,0
+"United Kingdom, Belgium, Sweden",1,0
+"United Kingdom, Brazil, Germany",1,0
+"United Kingdom, Canada",2,1
+"United Kingdom, Canada, France, United States",1,0
+"United Kingdom, Canada, Italy",1,0
+"United Kingdom, Canada, Japan",1,0
+"United Kingdom, Canada, United States",3,1
+"United Kingdom, Canada, United States, Cayman Islands",1,0
+"United Kingdom, China, Canada, Indonesia, Singapore, United States",1,0
+"United Kingdom, China, United States",1,0
+"United Kingdom, Denmark, Canada, Croatia",1,0
+"United Kingdom, Egypt, United States",1,0
+"United Kingdom, France",5,1
+"United Kingdom, France, Belgium",2,0
+"United Kingdom, France, Belgium, United States",1,0
+"United Kingdom, France, Canada, Belgium, United States",1,0
+"United Kingdom, France, Germany",1,0
+"United Kingdom, France, Germany, Spain",0,1
+"United Kingdom, France, United States",3,0
+"United Kingdom, Germany",2,1
+"United Kingdom, Germany, Canada",1,0
+"United Kingdom, Germany, Canada, United States",1,0
+"United Kingdom, Germany, United States",1,0
+"United Kingdom, Hong Kong",1,0
+"United Kingdom, India",2,0
+"United Kingdom, India, Sweden",1,0
+"United Kingdom, India, United States",2,0
+"United Kingdom, Ireland",1,1
+"United Kingdom, Israel, Russia",1,0
+"United Kingdom, Italy, Argentina, United States",1,0
+"United Kingdom, Italy, France, United States",1,0
+"United Kingdom, Italy, Israel, Peru, United States",1,0
+"United Kingdom, Japan, United States",3,0
+"United Kingdom, Jordan, Qatar, Iran",1,0
+"United Kingdom, Malawi",1,0
+"United Kingdom, Namibia, South Africa, Zimbabwe, United States",1,0
+"United Kingdom, New Zealand",1,0
+"United Kingdom, Norway, Denmark, Germany, Sweden",1,0
+"United Kingdom, Pakistan",1,0
+"United Kingdom, Poland",1,0
+"United Kingdom, Poland, United States",1,0
+"United Kingdom, Russia",1,0
+"United Kingdom, Singapore",0,1
+"United Kingdom, South Africa",1,0
+"United Kingdom, South Africa, Australia, United States",0,1
+"United Kingdom, South Korea",1,0
+"United Kingdom, Spain, Belgium",1,0
+"United Kingdom, Spain, United States, Germany",1,0
+"United Kingdom, Thailand",1,0
+"United Kingdom, Ukraine, United States",1,0
+"United Kingdom, United States",40,10
+"United Kingdom, United States, Australia",1,0
+"United Kingdom, United States, Czech Republic",0,1
+"United Kingdom, United States, Dominican Republic",1,0
+"United Kingdom, United States, France, Germany",1,0
+"United Kingdom, United States, Germany, Denmark, Belgium, Japan",1,0
+"United Kingdom, United States, Greece, Italy, Germany",0,1
+"United Kingdom, United States, Morocco",1,0
+"United Kingdom, United States, Russia",1,0
+"United Kingdom, United States, Spain, Germany, Greece, Canada",2,2
+"United Kingdom, West Germany",0,1
+United States,1482,550
+"United States,",1,0
+"United States, Argentina",1,0
+"United States, Australia",11,0
+"United States, Australia, China",1,0
+"United States, Australia, Mexico",1,0
+"United States, Australia, Samoa, United Kingdom",1,0
+"United States, Australia, South Africa, United Kingdom",1,0
+"United States, Bermuda, Ecuador",1,0
+"United States, Botswana",1,0
+"United States, Brazil",1,0
+"United States, Brazil, India, Uganda, China",1,0
+"United States, Brazil, South Korea, Mexico, Japan, Germany",0,2
+"United States, Bulgaria",2,0
+"United States, Cambodia",1,0
+"United States, Canada",27,12
+"United States, Canada, Belgium, United Kingdom",1,0
+"United States, Canada, France",1,0
+"United States, Canada, Germany",1,0
+"United States, Canada, Ireland",1,0
+"United States, Canada, Japan, Panama",1,0
+"United States, Canada, United Kingdom",1,0
+"United States, Chile",1,1
+"United States, China",5,0
+"United States, China, Hong Kong",1,0
+"United States, Colombia",0,1
+"United States, Colombia, Mexico",0,1
+"United States, Czech Republic",1,3
+"United States, Czech Republic, United Kingdom",1,0
+"United States, Denmark",1,0
+"United States, East Germany, West Germany",1,0
+"United States, France",8,1
+"United States, France, Canada",0,1
+"United States, France, Canada, Lebanon, Qatar",1,0
+"United States, France, Canada, Spain",1,0
+"United States, France, Italy, United Kingdom",1,0
+"United States, France, Japan",1,6
+"United States, France, Mexico",1,0
+"United States, France, South Korea, Indonesia",0,1
+"United States, France, United Kingdom, Japan",1,0
+"United States, Germany",13,0
+"United States, Germany, Australia",1,0
+"United States, Germany, Canada",2,0
+"United States, Germany, Mexico",1,0
+"United States, Germany, United Kingdom",2,0
+"United States, Germany, United Kingdom, Italy",1,0
+"United States, Greece, Brazil",1,0
+"United States, Greece, United Kingdom",1,0
+"United States, Hong Kong",2,0
+"United States, Hungary",1,0
+"United States, Hungary, Ireland, Canada",0,1
+"United States, Iceland",1,0
+"United States, India",6,0
+"United States, India, Bangladesh",1,0
+"United States, India, Malaysia, Taiwan, Canada, United Kingdom",1,0
+"United States, India, South Korea, China",1,0
+"United States, India, United Arab Emirates",1,0
+"United States, Indonesia",1,0
+"United States, Ireland",1,1
+"United States, Ireland, United Kingdom",0,1
+"United States, Israel, Italy, South Africa",0,1
+"United States, Israel, United Kingdom, Canada",1,0
+"United States, Italy",3,1
+"United States, Italy, United Kingdom, Liechtenstein",1,0
+"United States, Japan",4,10
+"United States, Japan, Canada",0,2
+"United States, Kazakhstan",1,0
+"United States, Malta, United Kingdom",1,0
+"United States, Mexico",6,3
+"United States, Mexico, Colombia",0,1
+"United States, Mexico, Spain, Malta",0,1
+"United States, Morocco",1,0
+"United States, Netherlands, Japan, France",0,1
+"United States, New Zealand",0,3
+"United States, New Zealand, Japan",0,1
+"United States, New Zealand, United Kingdom",1,0
+"United States, Nicaragua",1,0
+"United States, Russia",0,1
+"United States, Senegal",1,0
+"United States, South Africa",3,0
+"United States, South Korea",1,0
+"United States, South Korea, China",0,2
+"United States, South Korea, Japan",1,0
+"United States, Spain",3,0
+"United States, Spain, Chile, Peru",1,0
+"United States, Spain, Colombia, Mexico",0,1
+"United States, Spain, Germany",1,0
+"United States, Spain, Italy",1,0
+"United States, Sweden",2,1
+"United States, Taiwan",1,0
+"United States, United Arab Emirates",3,0
+"United States, United Kingdom",25,7
+"United States, United Kingdom, Australia",3,1
+"United States, United Kingdom, Canada",1,1
+"United States, United Kingdom, Canada, Japan",1,0
+"United States, United Kingdom, Denmark, Sweden",1,0
+"United States, United Kingdom, France",3,0
+"United States, United Kingdom, France, Germany, Japan",1,0
+"United States, United Kingdom, Germany",2,0
+"United States, United Kingdom, Italy",1,0
+"United States, United Kingdom, Morocco",1,0
+"United States, United Kingdom, Spain, South Korea",1,0
+"United States, Uruguay",1,0
+"United States, Venezuela",1,0
+Uruguay,2,0
+"Uruguay, Argentina, Spain",1,0
+"Uruguay, Spain, Mexico",1,0
+Venezuela,1,0
+"Venezuela, Colombia",1,0
+Vietnam,4,0
+West Germany,1,0
